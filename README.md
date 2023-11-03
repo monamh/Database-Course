@@ -1,2 +1,2 @@
-# Database-Course
-Homework for Database Course
+# Digikala Database Design
+Final project for Database Course : Designing a 5NF Database
